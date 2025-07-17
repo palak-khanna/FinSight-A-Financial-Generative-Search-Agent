@@ -1,0 +1,33 @@
+{
+  "topic": "nike q2 2025 earnings earnings report nike earnings",
+  "summary": "Nike's Q2 2025 earnings report reveals a challenging period for the company, with revenue and profit declines attributed to deep discounting strategies. Despite these challenges, Nike exceeded Wall Street expectations with earnings per share of $0.78, surpassing the anticipated $0.63, and revenue of $12.35 billion, above the expected $12.13 billion. However, these figures still represent a decline from the previous year, with net income dropping to $1.16 billion from $1.58 billion, and sales decreasing by 8%.\n\nNew CEO Elliott Hill, who returned to Nike in October, is focused on revitalizing the brand by emphasizing sport and innovation, moving away from heavy promotions, and restoring full-price sales online. Hill criticized the previous focus on online sales and performance marketing, which he believes alienated wholesale partners. He aims to rebuild trust with partners like Foot Locker and JD Sports, emphasizing mutually beneficial sales strategies.\n\nNike's performance varied across regions, with sales declines in all geographies except North America, which slightly exceeded expectations. The company also faces inventory challenges, with stock levels remaining flat but higher than desired. Additionally, the Converse brand underperformed, with a 17% sales drop.\n\nDespite these hurdles, Nike secured a significant contract renewal with the NFL, reinforcing its position as a leading sportswear provider. The company's shares have underperformed, down 27% in 2024, compared to a 27% gain for the S&P 500. Looking forward, Nike plans to focus on innovation and brand distinction to achieve sustainable growth.",
+  "citations": [
+    {
+      "source": "https://www.cnbc.com/2024/12/19/nike-nke-earnings-q2-2025.html",
+      "snippet": "  Markets Pre-Markets U.S. Markets Europe Markets China Markets Asia Markets World Markets Currencies Cryptocurrency Futures & Commodities Bonds Funds & ETFs  Business Economy Finance Health & Science Media Real Estate Energy Climate Transportation I...",
+      "metrics": {
+        "revenue": 12.35
+      }
+    },
+    {
+      "source": "https://news.alphastreet.com/nke-earnings-nike-q2-2025-profit-drops-on-lower-revenues/",
+      "snippet": "My Profile Watchlist News . Data . Research MENUMENU MENU MENU News Technology Consumer Health Care Industrials Cannabis Retail Finance Energy IPO Leisure & Entertainment Research Summary Other Industries  Technology Consumer Health Care Industrials ...",
+      "metrics": {
+        "revenue": 6.4,
+        "sales": 11.1,
+        "profit": 21.0,
+        "income": 211.0
+      }
+    },
+    {
+      "source": "https://finance.yahoo.com/news/nike-second-quarter-2025-earnings-122822277.html",
+      "snippet": "Oops, something went wrong Today's news US Politics World Tech Audio Computing Gaming Wordle Home entertainment TVs Phones Science Streaming Streaming reviews VPN Wearables Deals Prime Day 2025 Best Amazon Prime Day deals More AI Apps AR and VR Busin...",
+      "metrics": {
+        "revenue": 12.4,
+        "profit": 9.4,
+        "income": 1.16
+      }
+    }
+  ],
+  "timestamp": "2025-07-17T10:16:30.806881"
+}

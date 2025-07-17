@@ -1,0 +1,27 @@
+# Core dependencies
+streamlit>=1.35.0
+pandas>=2.0.0
+numpy>=1.23.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+html5lib>=1.1
+lxml>=4.9.3
+
+# AI & NLP
+openai>=1.0.0
+tiktoken>=0.5.1
+langchain>=0.1.14
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+scikit-learn>=1.3.0
+
+# Plotting
+matplotlib>=3.7.1
+seaborn>=0.12.2
+plotly>=5.15.0
+
+# File Export
+fpdf>=1.7.2
+
+# Optional for Streamlit extras
+streamlit-extras>=0.3.0

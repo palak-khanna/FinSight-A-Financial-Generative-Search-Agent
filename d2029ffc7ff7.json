@@ -1,0 +1,30 @@
+{
+  "topic": "Nike Q2 2025 earnings report",
+  "summary": "Nike released its Q2 2025 earnings report, showing a decline in revenue and net income compared to the previous year. The company reported revenues of $12.4 billion, down 8% on a reported basis, with a similar decline on a currency-neutral basis. Net income also saw a significant drop, reaching $1.2 billion, down 26% from the previous year. Nike's gross margin fell by 100 basis points to 43.6%, attributed to higher discounts and an altered channel mix. Despite these challenges, Nike remains committed to shareholder returns, distributing $1.6 billion through dividends and share repurchases. Nike's management, led by CEO Elliott Hill, is focused on repositioning the business to prioritize sport and enhance shareholder value. The company aims to strengthen its brand and improve financial performance by accelerating portfolio shifts and enhancing operational efficiency. Nike remains committed to long-term growth and shareholder value as it navigates current market challenges.",
+  "citations": [
+    {
+      "source": "https://www.cnbc.com/2024/12/19/nike-nke-earnings-q2-2025.html",
+      "snippet": "  Markets Pre-Markets U.S. Markets Europe Markets China Markets Asia Markets World Markets Currencies Cryptocurrency Futures & Commodities Bonds Funds & ETFs  Business Economy Finance Health & Science Media Real Estate Energy Climate Transportation I...",
+      "metrics": {
+        "revenue": 12.35
+      }
+    },
+    {
+      "source": "https://finance.yahoo.com/news/nike-second-quarter-2025-earnings-122822277.html",
+      "snippet": "Oops, something went wrong Today's news US Politics World Tech Audio Computing Gaming Wordle Home entertainment TVs Phones Science Streaming Streaming reviews VPN Wearables Deals Prime Day 2025 Best Amazon Prime Day deals More AI Apps AR and VR Busin...",
+      "metrics": {
+        "revenue": 12.4,
+        "profit": 9.4,
+        "income": 1.16
+      }
+    },
+    {
+      "source": "https://www.nasdaq.com/articles/nike-inc-reports-decline-q2-2025-earnings",
+      "snippet": "Nasdaq+ Weekly Macro+ Scorecard Market Activity U.S. Market Activity -> Stocks Options ETFs Mutual Funds Indexes Cryptocurrency Currencies Fixed Income Trading & Market Services North American Markets Nasdaq-100 Index Nasdaq-100 Index Options Market ...",
+      "metrics": {
+        "revenue": 12.4
+      }
+    }
+  ],
+  "timestamp": "2025-07-17T08:40:02.274086"
+}
