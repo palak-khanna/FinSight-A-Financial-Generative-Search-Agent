@@ -8,7 +8,7 @@
 
 ## 📽️ Demo
 
-[![Watch the Demo]([https://i.imgur.com/YOUR_THUMBNAIL_ID.png](https://github.com/palak-khanna/FinSight-A-Financial-Generative-Search-Agent/blob/EDA-AIML/thumbnail.png)](https://drive.google.com/file/d/1TNDEBer_gZECG1xhjP6QwLJS0m77Ro2b/view?usp=drive_link)
+[![Watch the Demo(https://i.imgur.com/YOUR_THUMBNAIL_ID.png](https://github.com/palak-khanna/FinSight-A-Financial-Generative-Search-Agent/blob/EDA-AIML/thumbnail.png)](https://drive.google.com/file/d/1TNDEBer_gZECG1xhjP6QwLJS0m77Ro2b/view?usp=drive_link)
 
 > 🎥 *Click the image above to watch a live walkthrough of the app.*
 ---
